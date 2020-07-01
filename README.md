@@ -1,2 +1,3 @@
 # hello-world
-This is my first attempt at creating a GitHub repository 
+
+Hello everyone, I am expanding my horizons by diving ointo GitHub and better understanding version control of coding fundamentals!
